@@ -17,6 +17,10 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://anuruddh-portfolio.netlify.app/)**
 
+
+-   ![](https://komarev.com/ghpvc/?username=HelloMoto069)
+    </br>
+
 - 🔭 I’m currently working on `Something Intresting`.
 
 - 🌱 I’m currently learning `MERN Stack`
@@ -62,8 +66,7 @@ Here are some ideas to get you started: -->
 ## ❤️ Let's get connected:
 
 <p>
-  ![](https://komarev.com/ghpvc/?username=HelloMoto069)
-  <a href="https://anuruddh-portfolio.netlify.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-HelloMoto069-blueviolet.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/HelloMoto_69" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/hellomoto69/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/hellomoto.69/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<a href="https://anuruddh-portfolio.netlify.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-HelloMoto069-blueviolet.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/HelloMoto_69" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/hellomoto69/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/hellomoto.69/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 📊 My GitHub Data:
