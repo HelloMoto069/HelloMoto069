@@ -10,16 +10,15 @@ Here are some ideas to get you started: -->
 </div>
 
  <br/>
+ 
+ -   ![](https://komarev.com/ghpvc/?username=HelloMoto069)
+    </br>
 
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://anuruddh-portfolio.netlify.app/)**
-
-
--   ![](https://komarev.com/ghpvc/?username=HelloMoto069)
-    </br>
 
 - 🔭 I’m currently working on `Something Intresting`.
 
@@ -71,7 +70,12 @@ Here are some ideas to get you started: -->
 
 ## 📊 My GitHub Data:
 
+
+
 <div align="center">
+  
+  -   ![](https://komarev.com/ghpvc/?username=HelloMoto069)
+    </br>
   
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HelloMoto069&show_icons=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMoto069&theme=tokyonight&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="HelloMoto069" />
