@@ -104,6 +104,6 @@ Here are some ideas to get you started: -->
     
 ### 🎧 Music Time  :
     
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31szvz622uznjc4lr3zf37nyopqy&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
   </div>
