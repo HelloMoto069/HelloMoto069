@@ -84,8 +84,11 @@ Here are some ideas to get you started: -->
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&" alt="Anuruddh Singh" />
   </br>
-  [![Anuruddh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069)](https://github.com/HelloMoto069/github-readme-activity-graph)
+  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069)" alt="Anuruddh Singh" />
+  
 </div>
+
+<div align="center">
 
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
@@ -94,7 +97,7 @@ Here are some ideas to get you started: -->
      
 ### 🤣 Random Jokes :
 
-<a href="https://readme-jokes.vercel.app"><img align="right" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
      
   
      
@@ -102,4 +105,6 @@ Here are some ideas to get you started: -->
 ### 🎧 Music Time  :
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+  
+  </div>
   
