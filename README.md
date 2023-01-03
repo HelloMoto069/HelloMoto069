@@ -83,4 +83,37 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMoto069&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="HelloMoto069" />
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&" alt="Anuruddh Singh" />
+  </br>
+  [![Anuruddh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069)](https://github.com/HelloMoto069/github-readme-activity-graph)
 </div>
+
+### ✍️ Random Dev Quote :
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
+     
+     
+     
+     
+  <img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+     
+        
+     
+     
+     
+     
+     
+     
+### 🤣 Random Jokes :
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
+     
+  
+ 
+     
+  
+
+     
+     
+### 🎧 Music Time  :
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
+  
