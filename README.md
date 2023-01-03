@@ -85,8 +85,10 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&" alt="Anuruddh Singh" />
 
 </div>
+ </br>
 
-[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069&theme=nightowl)](https://github.com/HelloMoto069/github-readme-activity-graph)
+[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069)](https://github.com/HelloMoto069/github-readme-activity-graph)
+ </br>
 
 <div align="center">
 
