@@ -91,13 +91,16 @@ Here are some ideas to get you started: -->
  </br>
 
 <div align="justify">
+
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
      
 ### 🤣 Random Jokes :
+a href="https://github.com/HelloMoto069"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0"></a>
 
-<a href="https://github.com/HelloMoto069"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&
+
     </div>
+    
 <div align="center">
      
 ### 🎧 Music Time  :
