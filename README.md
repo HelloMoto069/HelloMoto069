@@ -83,12 +83,10 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMoto069&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="HelloMoto069" />
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&" alt="Anuruddh Singh" />
-  </br>
- <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=nightowl)" alt="Anuruddh Singh" />
-  
-  
-  
+
 </div>
+
+[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069&theme=nightowl)](https://github.com/HelloMoto069/github-readme-activity-graph)
 
 <div align="center">
 
