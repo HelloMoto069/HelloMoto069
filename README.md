@@ -84,7 +84,9 @@ Here are some ideas to get you started: -->
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&" alt="Anuruddh Singh" />
   </br>
-  <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069)" alt="Anuruddh Singh" />
+ <img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&](https://github-readme-activity-graph.cyclic.app/graph?username=ayrotideysarkar&theme=nightowl)" alt="Anuruddh Singh" />
+  
+  
   
 </div>
 
