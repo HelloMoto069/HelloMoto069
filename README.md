@@ -1,19 +1,3 @@
-<style>
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Anuruddh Singh <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></h1> 
 
 
@@ -106,23 +90,14 @@ Here are some ideas to get you started: -->
 [![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069&line=a00000&bg_color=ffffff&area_color=ff0000&area=true)](https://github.com/HelloMoto069/github-readme-activity-graph)
  </br>
 
-<div class="row">
-
-<div class="column">
-
+<div align="justify">
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
      
-  </div>
-
-<div class="column">
-     
 ### 🤣 Random Jokes :
 
-<a href="https://github.com/HelloMoto069"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0"></a>
-      </div>
-  </div>
-  
+<a href="https://github.com/HelloMoto069"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&
+    </div>
 <div align="center">
      
 ### 🎧 Music Time  :
