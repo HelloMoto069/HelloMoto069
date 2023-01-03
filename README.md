@@ -87,7 +87,7 @@ Here are some ideas to get you started: -->
 </div>
  </br>
 
-[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069)](https://github.com/HelloMoto069/github-readme-activity-graph)
+[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069&line=31fa00&bg_color=ffffff&area_color=d4fa70&area=true)](https://github.com/HelloMoto069/github-readme-activity-graph)
  </br>
 
 <div align="center">
