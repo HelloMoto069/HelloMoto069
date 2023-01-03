@@ -91,7 +91,7 @@ Here are some ideas to get you started: -->
  </br>
 
 
-
+<div>
 <div align="left">
 
 ### ✍️ Random Dev Quote :
@@ -105,6 +105,7 @@ Here are some ideas to get you started: -->
 
 <a href="https://github.com/HelloMoto069"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
       </div>
+  </div>
   
 <div align="center">
      
