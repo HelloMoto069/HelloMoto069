@@ -89,30 +89,19 @@ Here are some ideas to get you started: -->
 
 [![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069&line=a00000&bg_color=ffffff&area_color=ff0000&area=true)](https://github.com/HelloMoto069/github-readme-activity-graph)
 
- 
- 
- 
- 
 
 <div align="center">
-
-  
-  
   
 ### ✍️ Random Dev Quote :
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
-  
-     
   
   
 ### 🤣 Random Jokes :
   
 <a href="https://github.com/HelloMoto069"><img src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0"></a>
 
-
-  
-     
+    
 ### 🎧 Music Time  :
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
