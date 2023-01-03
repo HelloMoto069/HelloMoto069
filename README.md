@@ -89,7 +89,7 @@ Here are some ideas to get you started: -->
 
 [![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069&line=a00000&bg_color=ffffff&area_color=ff0000&area=true)](https://github.com/HelloMoto069/github-readme-activity-graph)
  </br>
-<div align="center">
+
 
   <div class="row">
     <div class="column">
@@ -111,7 +111,7 @@ Here are some ideas to get you started: -->
   
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31d6ulonjrrp3pkiruf5zo4zzkje&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
-  </div>
+  
   
   
   .row::after {
