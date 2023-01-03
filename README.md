@@ -99,7 +99,7 @@ Here are some ideas to get you started: -->
      
 ### 🤣 Random Jokes :
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23400D7A&textColor=%2306d6a0&aColor=%23F0F4F8&borderColor=%2306d6a0" alt="README Jokes">
      
   
      
