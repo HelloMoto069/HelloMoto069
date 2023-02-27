@@ -86,8 +86,8 @@ Here are some ideas to get you started: -->
 
 </div>
  </br>
-<!-- 
-[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069&line=a00000&bg_color=ffffff&area_color=ff0000&area=true)](https://github.com/HelloMoto069/github-readme-activity-graph) -->
+
+[![Anurudh Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HelloMoto069&line=a00000&bg_color=ffffff&area_color=ff0000&area=true)](https://github.com/HelloMoto069/github-readme-activity-graph)
 
 
 <div align="center">
