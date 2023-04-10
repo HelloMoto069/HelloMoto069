@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://anurudh-dev.netlify.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://anuruddh69.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
 
