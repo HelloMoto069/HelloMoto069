@@ -12,9 +12,9 @@ Here are some ideas to get you started: -->
 
  <br/>
  
- -   ![](https://komarev.com/ghpvc/?username=HelloMoto069)
+ -   ![](https://komarev.com/ghpvc/?username=HelloMoto069&color=blueviolet)
   
-    </br>
+ <br/>
 
 ## 👨🏻‍💻 About Me:
 
