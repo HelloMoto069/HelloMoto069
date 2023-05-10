@@ -13,6 +13,7 @@ Here are some ideas to get you started: -->
  <br/>
  
  -   ![](https://komarev.com/ghpvc/?username=HelloMoto069&color=blueviolet)
+ -   <a href="https://github.com/anand7071?tab=followers"><img src="https://img.shields.io/github/followers/anand7071?label=Followers&style=social" alt="GitHub Badge"></a>
   
 
 
