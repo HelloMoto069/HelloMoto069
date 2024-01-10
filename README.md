@@ -85,6 +85,7 @@ Here are some ideas to get you started: -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMoto069&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="HelloMoto069" />
   </br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMoto069&" alt="Anuruddh Singh" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=HelloMoto069&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
  </br>
