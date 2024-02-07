@@ -11,7 +11,7 @@ implementing user-friendly interfaces, as well
 as integrating APIs and third-party libraries.
 Passionate about keeping up-to-date with
 emerging web technologies and best
-practices</h3>
+practices...</h3>
 
 
 <!--
