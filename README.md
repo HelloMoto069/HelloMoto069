@@ -36,15 +36,15 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://anuruddh69.netlify.app/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 Currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 2 Years + Experienced `MERN Stack` Developer
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- 👯 Available for collaboration 
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- 🤔 Available for help with `Competitive Programming`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, Except Chemistry :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
